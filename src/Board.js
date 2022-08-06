@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Note from './Note';
-import css from './style.css'
 
 class Board extends Component {
  
